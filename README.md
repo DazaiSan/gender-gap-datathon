@@ -199,7 +199,7 @@ Credit: This guide is based on the Summer Of Code Hackathon Guide.
 
 # Checklist
 
-- [ .] create 1millionwomentotech profile at https://1millionwomentotech.com/request-invite
+-  create 1millionwomentotech profile at https://1millionwomentotech.com/request-invite
 - [ ] read https://1millionwomentotech.com/programs/winter-of-data-2019/
 - [ ] watch [onboarding video](https://www.youtube.com/watch?v=elffT1YrKww)
 - [ ] subscribe to the [[DIY] 1MWTT Google calendar](https://calendar.google.com/calendar?cid=YWJjZWR1Y2F0aW9uLm9yZ19rb3RvNmR0ZGRkYjVjaW9sbThhcmFmdmpnb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
